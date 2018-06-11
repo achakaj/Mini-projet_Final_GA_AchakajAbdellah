@@ -1,0 +1,13 @@
+C:\Users\abdel\Documents\Visual Studio 2010\Projects\mastermind\mastermind\bin\mastermind.dll
+C:\Users\abdel\Documents\Visual Studio 2010\Projects\mastermind\mastermind\bin\mastermind.pdb
+C:\Users\abdel\Documents\Visual Studio 2010\Projects\mastermind\mastermind\obj\Debug\mastermind.dll
+C:\Users\abdel\Documents\Visual Studio 2010\Projects\mastermind\mastermind\obj\Debug\mastermind.pdb
+C:\Users\abdel\Desktop\mastermind2\mastermind\bin\mastermind.dll
+C:\Users\abdel\Desktop\mastermind2\mastermind\bin\mastermind.pdb
+C:\Users\abdel\Desktop\mastermind2\mastermind\obj\Debug\mastermind.dll
+C:\Users\abdel\Desktop\mastermind2\mastermind\obj\Debug\mastermind.pdb
+C:\Users\abdel\Desktop\MiniProjetP2_GA_AchakajAbdellah\mastermind\bin\mastermind.dll
+C:\Users\abdel\Desktop\MiniProjetP2_GA_AchakajAbdellah\mastermind\bin\mastermind.pdb
+C:\Users\abdel\Desktop\MiniProjetP2_GA_AchakajAbdellah\mastermind\obj\Debug\mastermind.dll
+C:\Users\abdel\Desktop\MiniProjetP2_GA_AchakajAbdellah\mastermind\obj\Debug\mastermind.pdb
+C:\Users\abdel\Desktop\MiniProjetP2_GA_AchakajAbdellah\mastermind\obj\Debug\mastermind.csprojResolveAssemblyReference.cache
